@@ -1,22 +1,61 @@
 aid: clover-networks
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/clover-networks.png
 name: Clover Networks
-description: Clover Networks is a company surfaced as a portfolio company of a16z and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Clover Network Inc. was a Silicon Valley mobile-payments startup that launched
+  publicly in March 2012 with a one-click, app-based checkout network aiming to
+  complete a payment in under five seconds using a phone number and PIN, charging
+  merchants a 3% per-transaction fee and seeding adoption with a developer fund
+  and instant-refund incentives. It raised $5.8M from Andreessen Horowitz and
+  Sutter Hill Ventures and was acquired by First Data on December 28, 2012. The
+  Clover name and technology were carried forward by First Data into the Clover
+  point-of-sale platform, which is now owned by Fiserv and covered separately in
+  the API Evangelist network by the `clover` repository. This entity is a
+  historical a16z portfolio lead and no longer operates as an independent company
+  or publishes its own developer surface.
 url: https://raw.githubusercontent.com/api-evangelist/clover-networks/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - a16z
+- Sutter Hill Ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-status: acquired
+x-acquired-by: First Data
+x-acquired-date: '2012-12-28'
+x-successor-repo: clover
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Payments
+- Mobile Payments
+- Point of Sale
+- Fintech
+- Checkout
+- Acquired
+- a16z Portfolio
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
