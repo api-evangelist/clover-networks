@@ -64,10 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Clover Network Inc. was a Silicon Valley mobile-payments startup that launched publicly in March 2012 with a one-click, app-based checkout network designed to complete a payment in under five seconds using a phone number and PIN. It charged merchants a 3% per-transaction fee and seeded adoption with a developer fund and instant-refund incentives.
+> **Acquired or rebranded.** This company was acquired, merged or renamed. Its API, if it still exists, is offered under another name. This profile is kept as a historical record and is not maintained or rated.
 
-- **Backed by:** a16z (Andreessen Horowitz), Sutter Hill Ventures — $5.8M
-- **Status:** Acquired by First Data on December 28, 2012
-- **Lineage:** The Clover name and technology were carried forward by First Data into the Clover point-of-sale platform, now owned by Fiserv and covered separately in the API Evangelist network by the `clover` repository.
+Clover Network Inc. was a Silicon Valley mobile-payments startup that launched publicly in March 2012 with a one-click, app-based checkout network aiming to complete a payment in under five seconds using a phone number and PIN, charging merchants a 3% per-transaction fee and seeding adoption with a developer fund and instant-refund incentives. It raised $5.8M from Andreessen Horowitz and Sutter Hill Ventures and was acquired by First Data on December 28, 2012. The Clover name and technology were carried forward by First Data into the Clover point-of-sale platform, which is now owned by Fiserv and covered separately in the API Evangelist network by the `clover` repository. This entity is a historical a16z portfolio lead and no longer operates as an independent company or publishes its own developer surface.
 
-This profile is a historical a16z portfolio lead. Clover Network Inc. no longer operates as an independent company and does not publish its own developer surface, so the enrichment pipeline captures identity only — API/developer artifacts for the surviving Clover POS platform belong to the `clover` repo, not here.
+**Areas:** Company · Payments · Mobile Payments · Point-of-Sale · Fintech · Checkout · Acquired · a16z Portfolio
+
+## Clover Networks on APIs.io (historical record)
+
+Everything profiled for Clover Networks is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/clover-networks/](https://apis.io/providers/clover-networks/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as acquired or rebranded, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Clover Networks: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/clover-networks/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
